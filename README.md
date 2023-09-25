@@ -1,2 +1,7 @@
 # Ideas
-Para ir describiendo algunas ideas para desarrollos futuros
+230925.  Describir ideas para desarrollos futuros.
+
+        
+He estado trabajando por varios meses con diferentes alternativas para implementar un sistema de "avisos de ocasión" He intentado varias tecnologías en Python y la realidad se me ha hecho bastante complejo, sobre todo a zona de autenticación de usuarios. Lo intenté en web2py, en py2web y últimamente en Django. Para los dos primeros encontré poca información que yo pudiera comprender para lograr aplicarla, utilicé los excelentes libros de William S. Vincent; "Django for Professionals_ Production websites with Python & Django 4.0-leanpub.com (2022)" y "Django for beginners_ build websites with Python & Django (2022)". La realidad me parece excesivo todo o que hay que hacer para logtar un sitio seguro. Después de un mes de trabajo, desistí de continuar Python y Django. Ni modo. Tanto que me gusta Python. Tendré que desarrollar en otra Marco de trabajo (Framework) y si necesito, generar micro-servicios en Python API´s con FastAPI. ya veremos en un futuro que se puede hacer. Siempre he estado sacándole la vuelta a PHP por una mala interpretación (mía) de que es anticuado y poco seguro.
+Ayer instalé Yii2, y en la primera instalación tuve ya un sistema utilizable; Un poco como web2py. Hoy iniciaré con algunas pruebas. 
+Precisamente en este momento me acordé de lo mucho que me gusta WEB2PY. Mejor me decantaré en este sistema e iniciaré la primer versión de SiEncuentra.com.
